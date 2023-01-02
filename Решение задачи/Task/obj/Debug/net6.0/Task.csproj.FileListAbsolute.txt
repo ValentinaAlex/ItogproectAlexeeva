@@ -1,0 +1,15 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/bin/Debug/net6.0/Task
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/bin/Debug/net6.0/Task.deps.json
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/bin/Debug/net6.0/Task.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/bin/Debug/net6.0/Task.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/Task.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/Task.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/Task/obj/Debug/net6.0/ref/Task.dll

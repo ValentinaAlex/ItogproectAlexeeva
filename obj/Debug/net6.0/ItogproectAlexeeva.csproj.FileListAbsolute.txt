@@ -1,0 +1,15 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/bin/Debug/net6.0/ItogproectAlexeeva
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/bin/Debug/net6.0/ItogproectAlexeeva.deps.json
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/bin/Debug/net6.0/ItogproectAlexeeva.runtimeconfig.json
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/bin/Debug/net6.0/ItogproectAlexeeva.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/bin/Debug/net6.0/ItogproectAlexeeva.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/ItogproectAlexeeva.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/ItogproectAlexeeva.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/ItogproectAlexeeva.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/ItogproectAlexeeva.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/ItogproectAlexeeva.csproj.CoreCompileInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/ItogproectAlexeeva.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/refint/ItogproectAlexeeva.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/ItogproectAlexeeva.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/ItogproectAlexeeva.genruntimeconfig.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaItog/ItogproectAlexeeva/obj/Debug/net6.0/ref/ItogproectAlexeeva.dll
